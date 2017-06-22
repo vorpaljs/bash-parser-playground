@@ -2,11 +2,10 @@
   "name": "bash-parser-playground",
   "version": "0.4.1",
   "description": "Playground website for bash-parser",
-  "repository": "vorpaljs/bash-parser",
+  "repository": "vorpaljs/bash-parser-playground",
   "license": "MIT",
-  "author": "vorpal-js",
+  "author": "Andrea Parodi <andrea@parro.it>",
   "scripts": {
-    "cover-test": "exit 0",
     "test": "xo",
     "serve": "serve docs",
     "clean": "rm -rf docs && mkdir docs",
